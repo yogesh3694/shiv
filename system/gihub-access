@@ -1,0 +1,22 @@
+git config --global user.email "yogesh.patel3694@gmail.com"
+  git config --global user.name "yogesh3694"
+
+yogesh.patel3694@gmil.com
+yogesh@1291
+  1]ls
+  2] cd "E:\wamps\www\ci_knowladge"
+  3]git init
+  4] git remote add origin https://github.com/yogesh3694/shiv
+  5] git remote origin -v
+  6] git remote -v <-fo fetch git folder
+  origin  https://github.com/yogesh3694/shiv (fetch)
+origin  https://github.com/yogesh3694/shiv (push)
+7] git add . dot for all folder data uploade
+8]git commit -m "first commit ci"
+9] git config --global user.email "yogesh.patel3694@gmil.com"
+ git config --global user.name "yogesh3694"
+10] git push origin master
+
+
+
+
